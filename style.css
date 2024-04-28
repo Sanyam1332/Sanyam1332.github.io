@@ -88,6 +88,12 @@ margin-left: 50px;
         width: 110px;
         
     }
+    .score-board{
+        margin-left: 3rem;
+    }
+    .result{
+        margin-left: 1rem;
+    }
     #msg{
         display: block;
         margin-left: 100px;
