@@ -81,8 +81,12 @@ margin-left: 50px;
     .nav{
         width: 480px;
     }
+    .choices{
+        margin-left: 6rem;
+    }
     .choice{
         width: 110px;
+        
     }
     #msg{
         display: block;
