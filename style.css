@@ -3,11 +3,14 @@
     padding: 0;
     text-align: center;
     
+    
 }
-
+body{
+    background-color: #7fa99b;
+}
 .nav{
     height: 100px;
-    background-color: rgb(14, 14, 56);
+    background-color: #394a51;
     color: white;
     display: flex;
     justify-content: center;
@@ -69,7 +72,7 @@ margin-left: 50px;
  display: inline;
     font-size: 2rem;
     font-weight: 500;
-    cursor: pointer;
+  
     padding: 1rem;
   
 
