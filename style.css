@@ -77,3 +77,16 @@ margin-left: 50px;
   
 
 }
+@media (max-width:450px){
+    .nav{
+        width: 480px;
+    }
+    .choice{
+        width: 110px;
+    }
+    #msg{
+        display: block;
+        margin-left: 100px;
+    }
+
+}
